@@ -2,7 +2,7 @@
 
 **AI Software Engineer** building multi-agent systems and LLM backends for real financial work.
 
-São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/gabriel-pradyumna-alencar-costa-8887a6201/) · gabriel.prady1@gmail.com
+Brazil · [LinkedIn](https://www.linkedin.com/in/gabriel-pradyumna-alencar-costa-8887a6201/) · gabriel.prady1@gmail.com
 
 ---
 
