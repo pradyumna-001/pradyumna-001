@@ -40,7 +40,7 @@ Portfolio analysis for illiquid investment funds; valuation concepts and investm
 **Hyperlocal — Machine Learning** (intern)
 Fraud detection models (Random Forest, Gradient Boosting) with feature engineering over historical transaction data; >99% predictive performance.
 
-**Insper Code — Developer**
+**Insper Code (student organization) — Developer**
 LLM pipeline for unstructured data extraction from investment fund regulation PDFs — implementation, testing, and validation in collaboration with the data team.
 
 ---
